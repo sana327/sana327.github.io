@@ -66,7 +66,7 @@ div {
 }
 
 /* This has no effect, come back to fix this */
-.row :first-child {
+.row:first-child {
     opacity: O;
 }
 
